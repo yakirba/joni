@@ -10,7 +10,8 @@
     Java port of Oniguruma: http://www.geocities.jp/kosako3/oniguruma
     that uses byte arrays directly instead of java Strings and chars
   </description>
- 
+
+  
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
